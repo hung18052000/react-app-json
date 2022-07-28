@@ -1,0 +1,249 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "rating": 2,
+      "price": 39.99,
+      "name": "Amazon - Fire TV Stick with Alexa Voice Remote - Black",
+      "brand": "HP",
+      "type": "trend cases",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/5477500_sb.jpg"
+    },
+    {
+      "id": 2,
+      "rating": 3,
+      "price": 35,
+      "name": "Google - Chromecast - Black",
+      "brand": "Dell",
+      "type": "connectivity",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/4397400_sb.jpg"
+    },
+    {
+      "id": 3,
+      "rating": 4,
+      "price": 499.99,
+      "name": "Dell - Inspiron 15.6 Touch-Screen Laptop - Intel Core i5 - 6GB Memory - 1TB Hard Drive - Black",
+      "brand": "HP",
+      "type": "business cases",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/5588602_sb.jpg"
+    },
+    {
+      "id": 4,
+      "rating": 3,
+      "price": 44.99,
+      "name": "Amazon - Echo Dot",
+      "brand": "Apple",
+      "type": "trend cases",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/5578851_sb.jpg"
+    },
+    {
+      "id": 5,
+      "rating": 1,
+      "price": 999.99,
+      "name": "Macbook 2020",
+      "brand": "Apple",
+      "type": "business cases",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/6443034_sb.jpg"
+    },
+    {
+      "id": 6,
+      "rating": 5,
+      "price": 429.99,
+      "name": "Sharp - 50\" Class (49.5\" Diag.) - LED - 1080p - Smart - HDTV Roku TV - Black",
+      "brand": "Apple",
+      "type": "business cases",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/6443034_sb.jpg"
+    },
+    {
+      "id": 7,
+      "rating": 2,
+      "price": 999.99,
+      "name": "Google - Google Home - White/Slate fabric",
+      "brand": "Apple",
+      "type": "business cases",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/5578849_sb.jpg"
+    },
+    {
+      "id": 8,
+      "rating": 3,
+      "price": 22.99,
+      "name": "Apple - EarPods™ with Remote and Mic - White",
+      "brand": "Apple",
+      "type": "business cases",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/6848136_sb.jpg"
+    },
+    {
+      "id": 9,
+      "rating": 5,
+      "price": 12.99,
+      "name": "Philips - hue A19 Smart LED Light Bulb - White Only",
+      "brand": "Apple",
+      "type": "business cases",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/4374300_sb.jpg"
+    },
+    {
+      "id": 10,
+      "rating": 2,
+      "price": 15.99,
+      "name": "Nintendo - amiibo Figure (The Legend of Zelda: Breath of the Wild Series Zelda)",
+      "brand": "Apple",
+      "type": "business cases",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/5723538_sb.jpg"
+    },
+    {
+      "id": 11,
+      "rating": 1,
+      "price": 999.99,
+      "name": "Roku - Express Streaming Media Player - Black",
+      "brand": "Apple",
+      "type": "business cases",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/5513500_sb.jpg"
+    },
+    {
+      "id": 12,
+      "rating": 2,
+      "price": 78.99,
+      "name": "Rocketfish™ - Tilting TV Wall Mount for Most 32\"-70\" TVs - Black",
+      "brand": "Apple",
+      "type": "business cases",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/9881868_rb.jpg"
+    },
+    {
+      "id": 13,
+      "rating": 5,
+      "price": 15.99,
+      "name": "Nintendo - amiibo Figure (The Legend of Zelda: Breath of the Wild Series Guardian)",
+      "brand": "Apple",
+      "type": "business cases",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/5723700_sb.jpg"
+    },
+    {
+      "id": 14,
+      "rating": 4,
+      "price": 39.99,
+      "name": "LG - Ultra Slim 8x Max. DVD Write Speed External USB DVD±RW/CD-RW Drive - Black",
+      "brand": "Apple",
+      "type": "business cases",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/5407064_sb.jpg"
+    },
+    {
+      "id": 15,
+      "rating": 1,
+      "price": 85.99,
+      "name": "Insignia™ - 55\" Class - (54.6\" Diag.) - LED - 1080p - HDTV - Black",
+      "brand": "Apple",
+      "type": "business cases",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/4806800_sb.jpg"
+    },
+    {
+      "id": 16,
+      "rating": 1,
+      "price": 5.99,
+      "name": "AT&T GoPhone - Samsung Galaxy Express 3 4G LTE with 8GB Memory Prepaid Cell Phone",
+      "brand": "Apple",
+      "type": "business cases",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/4984700_sb.jpg"
+    },
+    {
+      "id": 17,
+      "rating": 3,
+      "price": 55.99,
+      "name": "Amazon - Echo Dot",
+      "brand": "Apple",
+      "type": "business cases",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/5578864_sb.jpg"
+    },
+    {
+      "id": 18,
+      "rating": 2,
+      "price": 35.99,
+      "name": "Insignia™ - Portable Wireless Speaker - Black",
+      "brand": "Apple",
+      "type": "business cases",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/5496202_sb.jpg"
+    },
+    {
+      "id": 19,
+      "rating": 2,
+      "price": 25.99,
+      "name": "Amazon - Fire TV (2015 Model) - Black",
+      "brand": "Apple",
+      "type": "business cases",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/4370400_sb.jpg"
+    },
+    {
+      "id": 20,
+      "rating": 5,
+      "price": 15.99,
+      "name": "SanDisk - Ultra Plus 32GB microSDHC Class 10 UHS-1 Memory Card - Gray/Red",
+      "brand": "Apple",
+      "type": "business cases",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/3142635_sb.jpg"
+    },
+    {
+      "id": 21,
+      "rating": 5,
+      "price": 807.99,
+      "name": "Bosch - 500 Series 24\" Tall Tub Built-In Dishwasher with Stainless-Steel Tub - Stainless Steel",
+      "brand": "ABC",
+      "type": "dishwashers",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/8864055_sb.jpg"
+    },
+    {
+      "id": 22,
+      "rating": 2,
+      "price": 809.99,
+      "name": "KitchenAid - 24\" Tall Tub Built-In Dishwasher - Stainless Steel",
+      "brand": "ABCD",
+      "type": "dishwashers",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/8864055_sb.jpg"
+    },
+    {
+      "id": 23,
+      "rating": 5,
+      "price": 415.99,
+      "name": "Whirlpool - 24\" Tall Tub Built-In Dishwasher - Monochromatic Stainless Steel",
+      "brand": "ABCSA",
+      "type": "dishwashers",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/8864055_sb.jpg"
+    },
+    {
+      "id": 24,
+      "rating": 4,
+      "price": 1200.99,
+      "name": "Bosch - Ascenta 24\" Tall Tub Built-In Dishwasher with Stainless-Steel Tub - Stainless Steel",
+      "brand": "ABCDREF",
+      "type": "dishwashers",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/8864055_sb.jpg"
+    },
+    {
+      "id": 25,
+      "rating": 3,
+      "price": 8.99,
+      "name": "Insignia™ - 4\" Mini Fan - True Red",
+      "brand": "ABC1",
+      "type": "fans",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/4711004_sb.jpg"
+    },
+    {
+      "id": 26,
+      "rating": 5,
+      "price": 7.99,
+      "name": "Insignia™ - 9\" Table Fan - Gray",
+      "brand": "ABC3",
+      "type": "fans",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/4744800_sb.jpg"
+    },
+    {
+      "id": 27,
+      "rating": 3,
+      "price": 37.99,
+      "name": "Honeywell - QuietSet 13\" Personal Fan - Black",
+      "brand": "ABC32",
+      "type": "fans",
+      "imageUrl": "https://cdn-demo.algolia.com/bestbuy-0118/3799048_sb.jpg"
+    }
+  ],
+  "types": ["trend cases", "ult protectio cases", "business cases", "connectivity"],
+  "brands": ["Samsung", "Apple", "HP", "Dell"]
+}
